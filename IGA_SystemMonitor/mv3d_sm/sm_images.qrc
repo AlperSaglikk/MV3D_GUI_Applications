@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/imag">
+        <file>dcb_6.png</file>
+        <file>dcb_7.png</file>
+        <file>systic.png</file>
+        <file>dcb_1.png</file>
+        <file>dcb_right.png</file>
+        <file>hvps_2.png</file>
+        <file>sdb.png</file>
+        <file>dcb_2.png</file>
+        <file>chiller.png</file>
+        <file>pdu_left.png</file>
+        <file>dcb_3.png</file>
+        <file>pdu_right.png</file>
+        <file>hvps.png</file>
+        <file>dcb_4.png</file>
+        <file>dcb_left.png</file>
+        <file>hvps_3.png</file>
+        <file>dcb_5.png</file>
+        <file>sm_mv3d_mdf.jpg</file>
+        <file>flowswitch_table.jpg</file>
+    </qresource>
+</RCC>
