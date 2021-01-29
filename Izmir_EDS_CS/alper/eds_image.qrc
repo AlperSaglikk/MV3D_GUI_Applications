@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imag">
+        <file>l3tech.jpg</file>
+        <file>lst.png</file>
+        <file>mute.png</file>
+        <file>unmute.png</file>
+    </qresource>
+</RCC>
