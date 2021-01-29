@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imag">
+        <file>lst.png</file>
+        <file>unmute.png</file>
+        <file>mute.png</file>
+        <file>leidos.png</file>
+    </qresource>
+</RCC>
